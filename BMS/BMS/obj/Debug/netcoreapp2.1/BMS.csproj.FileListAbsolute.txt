@@ -1,0 +1,11 @@
+E:\Programming\C# Project\BMS\BMS\bin\Debug\netcoreapp2.1\BMS.deps.json
+E:\Programming\C# Project\BMS\BMS\bin\Debug\netcoreapp2.1\BMS.runtimeconfig.json
+E:\Programming\C# Project\BMS\BMS\bin\Debug\netcoreapp2.1\BMS.runtimeconfig.dev.json
+E:\Programming\C# Project\BMS\BMS\bin\Debug\netcoreapp2.1\BMS.dll
+E:\Programming\C# Project\BMS\BMS\bin\Debug\netcoreapp2.1\BMS.pdb
+E:\Programming\C# Project\BMS\BMS\obj\Debug\netcoreapp2.1\BMS.csprojAssemblyReference.cache
+E:\Programming\C# Project\BMS\BMS\obj\Debug\netcoreapp2.1\BMS.csproj.CoreCompileInputs.cache
+E:\Programming\C# Project\BMS\BMS\obj\Debug\netcoreapp2.1\BMS.AssemblyInfoInputs.cache
+E:\Programming\C# Project\BMS\BMS\obj\Debug\netcoreapp2.1\BMS.AssemblyInfo.cs
+E:\Programming\C# Project\BMS\BMS\obj\Debug\netcoreapp2.1\BMS.dll
+E:\Programming\C# Project\BMS\BMS\obj\Debug\netcoreapp2.1\BMS.pdb
