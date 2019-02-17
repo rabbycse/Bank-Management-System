@@ -4,4 +4,9 @@ Here is a project we developed as ConsoleApp in C# bank management system ; it i
 
 Here, you can create a new account, show account information, Deposit from account, Withdraw from account, Show all account with id, Clear screen and Exit.
 
+![capture](https://user-images.githubusercontent.com/37344605/52917770-85976000-3319-11e9-9e26-d491b04f9197.PNG)
+
+
+.
+
 Overall, with this project, you can perform banking activities like in a REAL bank. Bank management mini project in C# is a console application. It is compiled in Visual Studio 2017.
